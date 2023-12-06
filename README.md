@@ -1,14 +1,9 @@
 # Note Taker Starter CodeGIVEN a note-taking application
-<!-- WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a "Save Note" button and a "Clear Form" button appear in the navigation at the top of the page
-WHEN I click on the Save button
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes and the buttons in the navigation disappear
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column and a "New Note" button appears in the navigation
-WHEN I click on the "New Note" button in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
-Mock-Up -->
+## note taker app
+a simple app for logging day to day tasks
+# Description
+- I built this project as a way to organize my day to day tasks
+# usage
+Enter a title and body for your note and click the save note button. A copy of the note will be saved on the server side for access later.
+## credits
+Scott Everett, my tutor, helped me with much of the code in this program
